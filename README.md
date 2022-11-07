@@ -8,7 +8,7 @@
          width="45" />, I'm Lakshya Dhariwal</h1>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3079C6&width=435&lines=A+FullStack+developer;Passionate+about+frontend;Intern+%40+pibit.ai)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=3079C6&width=435&lines=A+FullStack+developer;Passionate+about+frontend+devlopment;Frontend+Development+Intern+%40+pibit.ai)](https://git.io/typing-svg)
 
 </div>
 
