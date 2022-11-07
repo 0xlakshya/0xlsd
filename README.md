@@ -11,7 +11,7 @@
     Working with React/Redux , NextJS , NodeJS/Express , TailwindCSS 
 </h3>
 
-<div align="center">
+
 <h2 align="center">
 Work Experience
 </h2>
